@@ -1,0 +1,2 @@
+# Jpetstore
+Dummy application
